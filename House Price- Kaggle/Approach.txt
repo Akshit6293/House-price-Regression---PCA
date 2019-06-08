@@ -1,0 +1,5 @@
+I have used PCA analysis for the advanced house price regression technique dataset available.
+I have imputed all the null values.
+I have also used liner regression model as well as randomforest model
+Feel free to check the code and give a feedback on how is it 
+ 
